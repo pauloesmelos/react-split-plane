@@ -2,7 +2,7 @@ import React from 'react';
 
 const ComponentA = () => {
   return (
-    <div className="p-4 bg-neutral-100 w-full flex flex-col gap-5">
+    <div className="h-[500px] bg-neutral-100 w-[500px] flex flex-col gap-5">
         <h1 className="font-bold text-2xl text-slate-800 text-center">
             Title Split Component Text
         </h1>
